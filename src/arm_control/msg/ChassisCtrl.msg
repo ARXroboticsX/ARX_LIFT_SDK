@@ -1,0 +1,10 @@
+float64 vx
+float64 vy
+float64 vz
+float64 chx
+float64 chy
+float64 chz
+float64[6] chassis_vel
+float64 high
+int32 mode1
+int32 mode2
